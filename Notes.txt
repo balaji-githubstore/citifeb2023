@@ -1,0 +1,40 @@
+
+Static methods/variable 
+
+classname.methodname()
+classname.variable 
+
+Non-static methods/variable 
+1. create object 
+2. objref.methodname()
+objref.variablename
+
+
+Class - ChromeDriver 
+
+Non-static methods 
+	void get(String url) 
+	String getTitle()
+	String getCurrentUrl()
+	String getPageSource() 
+	void quit()
+
+
+class - By 
+
+Static methods 
+a.	id 
+b.	name
+c.	classname
+d.	tagname 
+e.	link text 
+f.	partial link text 
+a.	XPath 
+b.	CSS
+
+
+ele-->L1-->
+(
+<input type="text" class="inputtext _55r1 _6luy" name="email" id="email" data-testid="royal_email" placeholder="Email address or phone number" autofocus="1" aria-label="Email address or phone number">
+)
+
