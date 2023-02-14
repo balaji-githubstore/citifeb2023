@@ -1,7 +1,9 @@
 # citifeb2023
 Projects created in class: 
-1. Selenium - ## SeleniumConcept ##
-2. Framework - ## HealthRecordAutomation ##
-3. Session notes 
-4. Please work on assignments (6 tasks)
+## Selenium ##
+1. SeleniumConcept  
+## Framework ##
+3. HealthRecordAutomation
+4. Session notes 
+5. Please work on assignments (6 tasks)
 
